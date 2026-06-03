@@ -1,11 +1,11 @@
-# MTProto Proxy
+# MTProto Proxy 🚀🔒
 
 > [!NOTE]
 > **Last Update:** _2026-06-03 18:03:32 UTC_
 
 This repository provides auto-updating proxies
 for Telegram to help you bypass the messenger's
-restrictions in Russia
+restrictions in Russia 🔒🇷🇺
 
 Proxies are updated every **30 minutes**, after which
 tracking is conducted, which you can review below.
@@ -13,18 +13,18 @@ Additionally, below you will find a table with
 the best ones and a link for instant connection
 
 **Valid proxies are available for viewing and
-downloading and are located in the files:**
-- [.TXT](https://github.com/shablin/mtproto-proxy/blob/main/valid_proxy.txt) (`valid_proxy.txt`)
-- [.JSON](https://github.com/shablin/mtproto-proxy/blob/main/valid_proxy.json) (`valid_proxy.json`) 
+downloading and are located in the files:** 📥
+- 📄 [.TXT](https://github.com/shablin/mtproto-proxy/blob/main/valid_proxy.txt) (`valid_proxy.txt`)
+- 📄 [.JSON](https://github.com/shablin/mtproto-proxy/blob/main/valid_proxy.json) (`valid_proxy.json`) 
 
 ## 📊 Stats
 
-| Total | Alive | Dead | Avg. Latency | Rate |
+| 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-:   | :-:   | :-:  | :-:  | :-: |
 |229|117|112|397.09 ms|51.1%|
 
-## Top 20 Fastest Proxies
-| Host | Latency (ms) | Link |
+## 🌐 Top 20 Fastest Proxies
+| 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 |---|:---:|---|
 | 172.65.38.26 | 2.31 | [Connect](https://t.me/proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267) |
 | 91.217.166.13 | 94.83 | [Connect](https://t.me/proxy?server=91.217.166.13&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d) |
