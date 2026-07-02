@@ -11,8 +11,15 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   monitor:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
 
     steps:
@@ -44,6 +51,9 @@ jobs:
           
           git push
       
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
