@@ -18,7 +18,7 @@ README_PATH = BASE_DIR / "README.md"
 PROVIDERS_PATH = DATA_DIR / "providers.txt"
 
 
-GH_PAGES_PUBLIC = BASE_DIR / "public"
+GH_PAGES_PUBLIC = BASE_DIR / "docs"
 JINJA2_TEMPLATES_DIR = BASE_DIR / "src" / "templates"
 
 
