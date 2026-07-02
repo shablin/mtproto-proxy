@@ -1,7 +1,9 @@
 from datetime import datetime, UTC
 from src.models import ProxyMetrics
 from src.utils import evaluate_proxy_rate
+from src.config import JINJA2_TEMPLATES_DIR
 
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 class MarkdownReadmeBuilder:
     def __init__(self) -> None:
@@ -181,3 +183,19 @@ class TelegramMessageBuilder:
             }
     
         return text, reply_markup
+    
+    
+class WebPageBuilder:
+    def __init__(self, stats: ProxyMetrics):
+        self._stats: ProxyMetrics = stats
+        self._template_name: str = "index.html"
+    
+    def build(self) -> str:
+        updtime = datetime.now(UTC).strftime('%Y-%m-%d %H:%M:%S UTC') 
+        env = Environment(loader=FileSystemLoader(JINJA2_TEMPLATES_DIR))
+        template = env.get_template(self._template_name)
+
+        return template.render(
+            stats=self._stats,
+            updtime=updtime
+        )

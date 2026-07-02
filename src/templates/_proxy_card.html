@@ -1,0 +1,37 @@
+<div class="bg-white dark:bg-gray-900 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-800 p-5 flex flex-col gap-4 card-hover">
+    <div class="flex items-center justify-between">
+        <div class="flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full {{ 'bg-emerald-500' if proxy.alive else 'bg-red-500' }}"></span>
+            <span class="text-sm font-medium {{ 'text-emerald-600 dark:text-emerald-400' if proxy.alive else 'text-red-600 dark:text-red-400' }}">
+                {{ 'Alive' if proxy.alive else 'Dead' }}
+            </span>
+        </div>
+        <span class="text-sm text-gray-400 dark:text-gray-500">{{ proxy.port }}</span>
+    </div>
+    <div class="flex items-center justify-between">
+        <div>
+            <div class="text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wider">Host</div>
+            <div class="font-mono text-lg font-semibold">{{ proxy.host }}</div>
+        </div>
+        <div class="text-right">
+            <div class="text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wider">Latency</div>
+            <div class="font-mono text-lg font-semibold">{{ proxy.latency_ms }}<span class="text-sm font-normal text-gray-500">ms</span></div>
+        </div>
+    </div>
+    <div class="flex gap-2 mt-1">
+        <button class="copy-link-btn flex-1 flex items-center justify-center gap-1.5 px-4 py-2.5 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 rounded-xl hover:bg-blue-100 dark:hover:bg-blue-900/50 transition-colors font-medium text-sm"
+                data-host="{{ proxy.host }}" data-port="{{ proxy.port }}" data-secret="{{ proxy.secret }}">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" />
+            </svg>
+            Copy Link
+        </button>
+        <a href="tg://proxy?server={{ proxy.host }}&port={{ proxy.port }}&secret={{ proxy.secret }}"
+            class="connect-btn flex-1 flex items-center justify-center gap-1.5 px-4 py-2.5 bg-emerald-50 dark:bg-emerald-900/30 text-emerald-700 dark:text-emerald-300 rounded-xl hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors font-medium text-sm {{ 'opacity-50 pointer-events-none' if not proxy.alive else '' }}">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+            </svg>
+            Connect
+        </a>
+    </div>
+</div>

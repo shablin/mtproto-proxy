@@ -85,6 +85,7 @@ async def main():
 
         generator.generate_readme(stats)
         generator.send_telegram_notification(stats)
+        generator.generate_webpage(stats)
     except ConfigError as e:
         logger_.critical(f"configuration error: {e}")
         exit(2)

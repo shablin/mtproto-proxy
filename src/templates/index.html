@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block title %}MTProto Proxy{% endblock %}
+
+{% block content %}
+    <section>
+        <h2 class="text-lg font-semibold mb-4 text-gray-700 dark:text-gray-300">Stats & Metrics</h2>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <div class="bg-white dark:bg-gray-900 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-800 card-hover">
+                <div class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-1">Total</div>
+                <div class="text-2xl font-bold tabular-nums">
+                    <span>{{ stats.alive_count }}</span> / <span>{{ stats.total }}</span>
+                </div>
+                <div class="text-xs text-gray-400 dark:text-gray-500 mt-1">Alive / Total</div>
+            </div>
+
+            <div class="bg-white dark:bg-gray-900 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-800 card-hover">
+                <div class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-1">Alive</div>
+                <div class="text-2xl font-bold text-emerald-600 dark:text-emerald-400 tabular-nums">{{ stats.alive_count }}</div>
+                <div class="text-xs text-gray-400 dark:text-gray-500 mt-1">Online</div>
+            </div>
+
+            <div class="bg-white dark:bg-gray-900 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-800 card-hover">
+                <div class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-1">Dead</div>
+                <div class="text-2xl font-bold text-red-600 dark:text-red-400 tabular-nums">{{ stats.dead_count }}</div>
+                <div class="text-xs text-gray-400 dark:text-gray-500 mt-1">Offline</div>
+            </div>
+
+            <div class="bg-white dark:bg-gray-900 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-800 card-hover">
+                <div class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-1">Avg. Latency</div>
+                <div class="text-2xl font-bold tabular-nums">{{ stats.avg_latency }}<span class="ml-2 text-base font-normal text-gray-500 dark:text-gray-400">ms</span></div>
+                <div class="text-xs text-gray-400 dark:text-gray-500 mt-1">Last 4h average</div>
+            </div>
+
+            <div class="bg-white dark:bg-gray-900 rounded-2xl p-5 shadow-sm border border-gray-200 dark:border-gray-800 card-hover flex flex-col items-center">
+                <div class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-2">Rate</div>
+                <div class="relative w-16 h-16">
+                    <svg class="w-16 h-16 -rotate-90" viewBox="0 0 64 64">
+                        <circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" class="text-gray-200 dark:text-gray-700" stroke-width="6" />
+                        <circle id="rate-circle" cx="32" cy="32" r="28" fill="none" stroke="currentColor" 
+                                class="text-blue-500 {% if stats.rate >= 50 %}text-emerald-500{% elif stats.rate < 50 and stats.rate >= 45 %}text-yellow-500{% else %}text-red-500{% endif %}" 
+                                stroke-width="6" stroke-linecap="round"
+                                stroke-dasharray="175.93" stroke-dashoffset="{{ (1 - stats.rate / 100) * 175.93 }}" />
+                    </svg>
+                    <span class="absolute inset-0 flex items-center justify-center text-sm font-bold">{{ stats.rate }}%</span>
+                </div>
+                <div class="text-xs text-gray-400 dark:text-gray-500 mt-1">Pull rate</div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2 class="text-lg font-semibold mb-4 text-gray-700 dark:text-gray-300">Proxies</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4" id="proxy-container">
+            {% for proxy in stats.valid %}
+                {% include "_proxy_card.html" with context %}
+            {% endfor %}
+        </div>
+    </section>
+{% endblock %}

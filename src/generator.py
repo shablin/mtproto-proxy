@@ -1,7 +1,7 @@
 import logging
 
 from src.models import ProxyMetrics
-from src.render import MarkdownReadmeBuilder, TelegramMessageBuilder
+from src.render import MarkdownReadmeBuilder, TelegramMessageBuilder, WebPageBuilder
 from src import config
 from src.telegram_client import TelegramClient
 from src.utils import evaluate_proxy_rate, ProxyRateEvaluation
@@ -92,3 +92,10 @@ def generate_readme(stats: ProxyMetrics):
 
     with open(config.README_PATH, "w", encoding="utf-8") as file:
         file.write(readme)
+
+
+def generate_webpage(stats: ProxyMetrics):
+    logger.info("generating static page for GitHub Pages...")
+
+    html = WebPageBuilder(stats=stats).build()
+    (config.GH_PAGES_PUBLIC / "index.html").write_text(html, encoding="utf-8")
