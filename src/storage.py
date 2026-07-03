@@ -39,6 +39,7 @@ def save_results(alive_proxies: list):
             "port": p.port,
             "secret": p.secret,
             "latency_ms": p.latency_ms,
+            "alive": p.alive,
         }
         for p in alive_proxies
     ]
