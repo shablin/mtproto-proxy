@@ -37,7 +37,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add README.md data/valid_proxy.txt data/valid_proxy.json data/raw_proxy.txt public/index.html
+          git add README.md data/valid_proxy.txt data/valid_proxy.json data/raw_proxy.txt docs/index.html
           git commit -m "🔄 Automatic update" || exit 0
           
           git push
