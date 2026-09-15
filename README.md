@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-09-15 17:58:21 UTC_
+> **Last Update:** _2026-09-15 21:12:12 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 217 | 181 |36 | 947.82 ms | 83.4% _(Good)_ |
+| 223 | 183 |40 | 975.58 ms | 82.1% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 172.65.103.117 | 9.2 | [Connect](https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 172.65.111.25 | 9.31 | [Connect](https://t.me/proxy?server=172.65.111.25&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 172.65.113.134 | 11.14 | [Connect](https://t.me/proxy?server=172.65.113.134&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 172.65.122.51 | 11.46 | [Connect](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 172.65.105.80 | 11.81 | [Connect](https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| ir.flipme.info | 119.45 | [Connect](https://t.me/proxy?server=ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 136.243.195.203 | 139.05 | [Connect](https://t.me/proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 91.107.140.144 | 141.17 | [Connect](https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 195.201.216.142 | 150.51 | [Connect](https://t.me/proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 116.202.189.213 | 156.36 | [Connect](https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 135.181.74.178 | 158.1 | [Connect](https://t.me/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 91.98.97.225 | 158.4 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 65.109.147.39 | 161.18 | [Connect](https://t.me/proxy?server=65.109.147.39&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 95.217.193.223 | 161.57 | [Connect](https://t.me/proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 79.137.196.223 | 179.61 | [Connect](https://t.me/proxy?server=79.137.196.223&port=15443&secret=ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d) |
-| dns.speed-benz.co.uk | 183.19 | [Connect](https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| leomessi.goooalir.co.uk | 187.13 | [Connect](https://t.me/proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 417.ir.ir.ir.meli-n12.info | 204.54 | [Connect](https://t.me/proxy?server=417.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| ppp7332.ir.meli-n13.info | 210.34 | [Connect](https://t.me/proxy?server=ppp7332.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09) |
-| ir.ataman.info | 221.29 | [Connect](https://t.me/proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 172.65.103.117 | 1.16 | [Connect](https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 172.65.111.25 | 2.09 | [Connect](https://t.me/proxy?server=172.65.111.25&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 172.65.122.51 | 2.69 | [Connect](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 208.87.242.223 | 55.33 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 167.233.81.41 | 93.3 | [Connect](https://t.me/proxy?server=167.233.81.41&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA) |
+| 167.233.89.249 | 94.68 | [Connect](https://t.me/proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA) |
+| 91.107.140.144 | 95.04 | [Connect](https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 91.107.160.196 | 96.58 | [Connect](https://t.me/proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 91.107.180.123 | 97.24 | [Connect](https://t.me/proxy?server=91.107.180.123&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 136.243.195.203 | 97.56 | [Connect](https://t.me/proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 2.26.7.251 | 110.0 | [Connect](tg://proxy?server=2.26.7.251&port=443&secret=ee9945c587716452618a218583a2d4aaeb73747265616d2e782d627573792e7275) |
+| AZADI.goooalir.co.uk | 112.06 | [Connect](https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 95.217.193.223 | 115.35 | [Connect](https://t.me/proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 91.98.97.225 | 125.68 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| sub.iran-tehran.co.uk. | 132.45 | [Connect](https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D) |
+| dpi.Server-space52.info | 178.39 | [Connect](https://t.me/proxy?server=dpi.Server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA==) |
+| ir.makkers.co.uk | 190.27 | [Connect](https://t.me/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| are.ajjab.co.uk | 207.33 | [Connect](https://t.me/proxy?server=are.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| Rudmoain.co.uk. | 217.13 | [Connect](https://t.me/proxy?server=Rudmoain.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| reyhoon.shambelile.co.uk | 222.12 | [Connect](https://t.me/proxy?server=reyhoon.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
