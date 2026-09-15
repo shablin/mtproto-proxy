@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-09-15 07:18:05 UTC_
+> **Last Update:** _2026-09-15 13:12:23 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 265 | 217 |48 | 479.18 ms | 81.9% _(Good)_ |
+| 220 | 179 |41 | 690.73 ms | 81.4% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 172.65.122.51 | 2.04 | [Connect](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 172.65.103.117 | 2.79 | [Connect](https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
-| 172.65.105.80 | 2.79 | [Connect](https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
-| 45.38.23.169 | 98.35 | [Connect](tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) |
-| 50.7.230.106 | 99.03 | [Connect](tg://proxy?server=50.7.230.106&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275) |
-| 50.7.41.162 | 99.38 | [Connect](tg://proxy?server=50.7.41.162&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275) |
-| 85.17.89.193 | 101.02 | [Connect](tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d) |
-| 132.243.235.196 | 101.11 | [Connect](tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275) |
-| 194.50.94.169 | 101.27 | [Connect](tg://proxy?server=194.50.94.169&port=443&secret=eef0cc7b0627ec46bfe543ca738048b755706574726f766963682e7275) |
-| 185.84.156.90 | 101.45 | [Connect](tg://proxy?server=185.84.156.90&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275) |
-| 167.86.100.17 | 102.92 | [Connect](tg://proxy?server=167.86.100.17&port=443&secret=eee26c8002852c6d9c74ec17c8532d2dfb636c6f7564666c6172652e636f6d) |
-| 94.103.1.226 | 105.35 | [Connect](tg://proxy?server=94.103.1.226&port=443&secret=ee7b15367d6c33b0b2a8a34d92b9327b79706f636874612e7275) |
-| 72.56.25.212 | 105.74 | [Connect](tg://proxy?server=72.56.25.212&port=443&secret=ee7d026761b388c46302df84b4b812aef0706574726f766963682e7275) |
-| 132.243.235.143 | 106.36 | [Connect](tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275) |
-| 132.243.235.188 | 106.49 | [Connect](tg://proxy?server=132.243.235.188&port=443&secret=eecff01a06513433100e81c6eadff452e779616e6465782e7275) |
-| 194.120.230.37 | 106.49 | [Connect](https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 89.125.1.94 | 107.21 | [Connect](tg://proxy?server=89.125.1.94&port=22&secret=ee63de76d8c349c5cd1fea58831dcd843731632e7275) |
-| 132.243.213.215 | 107.59 | [Connect](tg://proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275) |
-| 2.27.12.116 | 107.97 | [Connect](tg://proxy?server=2.27.12.116&port=443&secret=ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275) |
-| 194.62.66.202 | 108.75 | [Connect](tg://proxy?server=194.62.66.202&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275) |
+| 172.65.122.51 | 2.05 | [Connect](https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d) |
+| 172.65.103.117 | 2.11 | [Connect](https://t.me/proxy?server=172.65.103.117&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 172.65.111.25 | 2.13 | [Connect](https://t.me/proxy?server=172.65.111.25&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 172.65.113.134 | 2.19 | [Connect](https://t.me/proxy?server=172.65.113.134&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D) |
+| 195.201.216.142 | 94.98 | [Connect](https://t.me/proxy?server=195.201.216.142&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 91.107.140.144 | 97.11 | [Connect](https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 79.137.196.223 | 97.75 | [Connect](https://t.me/proxy?server=79.137.196.223&port=15443&secret=ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d) |
+| 177.3.213.2 | 97.96 | [Connect](tg://proxy?server=177.3.213.2&port=443&secret=ee38d14fd01a0235aa1087fd5421270db86d2e6265626f6f2e7275) |
+| mashti.just-money.co.uk | 102.13 | [Connect](https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 136.243.195.203 | 102.58 | [Connect](https://t.me/proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 116.202.189.213 | 112.15 | [Connect](https://t.me/proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 135.181.74.178 | 115.53 | [Connect](https://t.me/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 65.109.147.39 | 116.36 | [Connect](https://t.me/proxy?server=65.109.147.39&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 95.217.193.223 | 116.7 | [Connect](https://t.me/proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 91.98.97.225 | 118.73 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| premium.speed-benz.co.uk | 124.97 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| Hel-hi.co.uk. | 126.31 | [Connect](https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d) |
+| bo0ji.co.uk. | 138.08 | [Connect](https://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b) |
+| hamrah.mci.ir.pugfhtrdyted.info. | 163.06 | [Connect](https://t.me/proxy?server=hamrah.mci.ir.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| irogallery.golgoli1.co.uk | 168.77 | [Connect](https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
