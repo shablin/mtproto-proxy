@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-13 20:06:19 UTC_
+> **Last Update:** _2026-10-14 13:22:15 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 304 | 287 |17 | 1063.72 ms | 94.4% _(Good)_ |
+| 264 | 242 |22 | 697.32 ms | 91.7% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 9.05 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 31.57.108.82 | 125.28 | [Connect](tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275) |
-| 85.17.89.193 | 129.61 | [Connect](tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d) |
-| 72.56.102.104 | 130.41 | [Connect](tg://proxy?server=72.56.102.104&port=443&secret=eed8223b129a62eafcdafc08c4513e6d0531632e7275) |
-| 89.19.217.206 | 131.0 | [Connect](tg://proxy?server=89.19.217.206&port=443&secret=44f63df50ec68c8fa7d7ea1347ef6ea4) |
-| 132.243.235.143 | 131.37 | [Connect](tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275) |
-| 144.31.167.194 | 132.03 | [Connect](tg://proxy?server=144.31.167.194&port=443&secret=ee52af82771595b7d7e9eeeda3a7aa4f1a77622e7275) |
-| 194.50.94.169 | 132.11 | [Connect](tg://proxy?server=194.50.94.169&port=443&secret=eef0cc7b0627ec46bfe543ca738048b755706574726f766963682e7275) |
-| 150.241.70.0 | 132.66 | [Connect](tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275) |
-| 217.138.215.102 | 132.82 | [Connect](tg://proxy?server=217.138.215.102&port=443&secret=ee8357954a3df5c26e32a7b8a7978c3f107777772e636974696c696e6b2e7275) |
-| 2.27.22.228 | 133.35 | [Connect](tg://proxy?server=2.27.22.228&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
-| 167.233.89.249 | 134.16 | [Connect](https://t.me/proxy?server=167.233.89.249&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA) |
-| 88.99.175.124 | 134.37 | [Connect](https://t.me/proxy?server=88.99.175.124&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q) |
-| 46.224.27.205 | 134.95 | [Connect](https://t.me/proxy?server=46.224.27.205&port=443&secret=eeDarKDarKDarKDarKDarK) |
-| 82.40.49.189 | 135.13 | [Connect](tg://proxy?server=82.40.49.189&port=443&secret=ee4f16151d4d748e02ab3a97325f54554d62726f777365722e79616e6465782e636f6d) |
-| 91.107.170.251 | 135.58 | [Connect](https://t.me/proxy?server=91.107.170.251&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 78.17.71.42 | 136.07 | [Connect](tg://proxy?server=78.17.71.42&port=443&secret=eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275) |
-| 94.103.1.226 | 136.25 | [Connect](tg://proxy?server=94.103.1.226&port=443&secret=ee7b15367d6c33b0b2a8a34d92b9327b79706f636874612e7275) |
-| 2.26.98.222 | 136.91 | [Connect](tg://proxy?server=2.26.98.222&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
-| 2.27.12.116 | 137.22 | [Connect](tg://proxy?server=2.27.12.116&port=443&secret=ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275) |
+| 208.87.242.223 | 30.66 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 85.17.89.193 | 143.93 | [Connect](tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d) |
+| 109.122.198.203 | 150.69 | [Connect](tg://proxy?server=109.122.198.203&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d) |
+| 167.235.197.46 | 150.95 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 167.235.197.87 | 154.93 | [Connect](https://t.me/proxy?server=167.235.197.87&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| lunar.driftquill.click | 171.74 | [Connect](tg://proxy?server=lunar.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 91.98.97.225 | 178.64 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| iran.bingi.co.uk | 186.0 | [Connect](https://t.me/proxy?server=iran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 130.49.151.113 | 188.39 | [Connect](tg://proxy?server=130.49.151.113&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275) |
+| birch.pebblewisp.xyz | 189.38 | [Connect](tg://proxy?server=birch.pebblewisp.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| drift.lite64.xyz | 191.22 | [Connect](tg://proxy?server=drift.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| AZADI.goooalir.co.uk | 196.78 | [Connect](https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 93.113.230.145 | 213.57 | [Connect](https://t.me/proxy?server=93.113.230.145&port=443&secret=dd140493a281a661d69a5712690344a429) |
+| 93.113.230.145 | 218.0 | [Connect](https://t.me/proxy?server=93.113.230.145&port=443&secret=FASTooGmYdaaVxJpA0SkKQ) |
+| aurora.lite64.top | 232.28 | [Connect](tg://proxy?server=aurora.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| fast.mtp.mom | 243.03 | [Connect](https://t.me/proxy?server=fast.mtp.mom&port=443&secret=ee51c8b871ae7a470814adb0c5da1f11dd6c69746536342e73697465) |
+| crest.lanternmoss.top | 246.34 | [Connect](tg://proxy?server=crest.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| one.horizon555.co.uk | 250.04 | [Connect](https://t.me/proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| violet.lanternmoss.top | 273.63 | [Connect](tg://proxy?server=violet.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| porsorate.co.uk | 286.77 | [Connect](https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
