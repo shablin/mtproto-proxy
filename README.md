@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-17 08:18:13 UTC_
+> **Last Update:** _2026-10-17 13:29:22 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 320 | 301 |19 | 659.38 ms | 94.1% _(Good)_ |
+| 251 | 242 |9 | 576.19 ms | 96.4% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 9.0 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 2.27.12.116 | 133.43 | [Connect](tg://proxy?server=2.27.12.116&port=443&secret=ee19130c695cf699d93f5a31ecf380d4426d742e736b6f746f62617a2e7275) |
-| 167.235.197.46 | 135.26 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 91.107.171.35 | 135.31 | [Connect](https://t.me/proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 167.235.197.87 | 135.86 | [Connect](https://t.me/proxy?server=167.235.197.87&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 79.137.196.223 | 144.91 | [Connect](https://t.me/proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d) |
-| 65.108.123.76 | 157.6 | [Connect](https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 65.109.176.207 | 158.42 | [Connect](https://t.me/proxy?server=65.109.176.207&port=8443&secret=79e344818749bd7ac519130220c25d0) |
-| 65.109.191.104 | 158.74 | [Connect](https://t.me/proxy?server=65.109.191.104&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 65.109.181.71 | 158.82 | [Connect](https://t.me/proxy?server=65.109.181.71&port=8443&secret=79e344818749bd7ac519130220c25d09) |
-| 65.21.222.229 | 158.83 | [Connect](https://t.me/proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 77.42.56.67 | 161.45 | [Connect](https://t.me/proxy?server=77.42.56.67&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| he.67.mtproto.ru | 166.08 | [Connect](tg://proxy?server=he.67.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d) |
-| eagle.velvetoak.work | 174.36 | [Connect](tg://proxy?server=eagle.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| storm.lite64.click | 176.7 | [Connect](tg://proxy?server=storm.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 45.67.57.32 | 178.36 | [Connect](tg://proxy?server=45.67.57.32&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6d2e6265626f6f2e7275) |
-| org.mediaad.co.uk | 179.7 | [Connect](https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| signal.lite64.click | 181.46 | [Connect](tg://proxy?server=signal.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| vahshianeh.ghodratitarin.info. | 181.61 | [Connect](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| ir-ir.simpleelegance-us.info | 183.12 | [Connect](https://t.me/proxy?server=ir-ir.simpleelegance-us.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 208.87.242.223 | 8.89 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 85.17.89.193 | 129.29 | [Connect](tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d) |
+| 91.107.171.35 | 135.92 | [Connect](https://t.me/proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 79.137.196.223 | 151.23 | [Connect](https://t.me/proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d) |
+| 150.241.65.113 | 153.97 | [Connect](tg://proxy?server=150.241.65.113&port=443&secret=eeb87dc15f92c391155eccb9293e2881796f7a6f6e2e7275) |
+| 65.21.222.229 | 159.53 | [Connect](https://t.me/proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 65.108.123.76 | 161.69 | [Connect](https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| flint.hollowfern.sbs | 177.38 | [Connect](tg://proxy?server=flint.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| hawk.driftquill.click | 177.64 | [Connect](tg://proxy?server=hawk.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| ir.ariely.info | 185.02 | [Connect](https://t.me/proxy?server=ir.ariely.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| ir.makkers.co.uk | 185.27 | [Connect](https://t.me/proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| kabab.mikhay.co.uk | 189.96 | [Connect](https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| harbor.lite64.top | 194.04 | [Connect](tg://proxy?server=harbor.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| ion.lite64.click | 196.21 | [Connect](tg://proxy?server=ion.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| dh1.masi.ir.he6fhd.ru | 214.6 | [Connect](https://t.me/proxy?server=dh1.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| silver.velvetoak.work | 227.2 | [Connect](tg://proxy?server=silver.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| beacon.lanternmoss.top | 229.32 | [Connect](tg://proxy?server=beacon.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| ahvaz.co.uk | 230.26 | [Connect](https://t.me/proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| new.nakoskoskesh.co.uk | 245.22 | [Connect](https://t.me/proxy?server=new.nakoskoskesh.co.uk&port=8080&secret=EERighJJvXrFGRMCIMJdCQ) |
+| north.lite64.click | 257.93 | [Connect](tg://proxy?server=north.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
