@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-17 23:48:12 UTC_
+> **Last Update:** _2026-10-18 03:25:45 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 253 | 243 |10 | 519.04 ms | 96.0% _(Good)_ |
+| 253 | 245 |8 | 463.57 ms | 96.8% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 55.1 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 194.120.230.120 | 85.22 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 103.161.35.23 | 85.38 | [Connect](https://t.me/proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 176.65.135.69 | 85.95 | [Connect](https://t.me/proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 217.144.187.230 | 94.31 | [Connect](tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275) |
-| char.anotelinopalk.co.uk | 99.08 | [Connect](https://t.me/proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| daliran-tangestan.ir.aysghfkzcxg.info. | 100.63 | [Connect](https://t.me/proxy?server=daliran-tangestan.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| api.mangoseason5.co.uk | 101.47 | [Connect](https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| wave.velvetoak.work | 109.72 | [Connect](tg://proxy?server=wave.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| ir.mediaad.co.uk | 117.93 | [Connect](https://t.me/proxy?server=ir.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 130.49.151.113 | 120.8 | [Connect](tg://proxy?server=130.49.151.113&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275) |
-| cocorichmond.pareporeh.info. | 120.83 | [Connect](https://t.me/proxy?server=cocorichmond.pareporeh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
-| 89.108.88.184 | 122.99 | [Connect](tg://proxy?server=89.108.88.184&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275) |
-| twilight.lite64.click | 128.28 | [Connect](tg://proxy?server=twilight.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| neon.lite64.xyz | 132.0 | [Connect](tg://proxy?server=neon.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| puot.mozitop.co.uk | 134.34 | [Connect](https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| sonic.lite64.click | 134.9 | [Connect](tg://proxy?server=sonic.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| jasper.velvetoak.work | 135.67 | [Connect](tg://proxy?server=jasper.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| yek.anotelinopalk.co.uk | 140.39 | [Connect](https://t.me/proxy?server=yek.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 185.86.145.78 | 147.5 | [Connect](tg://proxy?server=185.86.145.78&port=443&secret=ee050c8f82b0877cccd23a08c65f062b987275747562652e7275) |
+| 208.87.242.223 | 9.29 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 176.65.135.69 | 141.91 | [Connect](https://t.me/proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 194.120.230.120 | 147.34 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 217.144.187.230 | 147.38 | [Connect](tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275) |
+| 89.185.85.103 | 148.69 | [Connect](tg://proxy?server=89.185.85.103&port=443&secret=eeed5359f53cdbb86eb6be435b9efa490a6f7a6f6e2e7275) |
+| 103.161.35.23 | 148.75 | [Connect](https://t.me/proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| fruit.golgoli2.co.uk | 153.33 | [Connect](https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| premium.speed-benz.co.uk | 172.74 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| echo.lite64.click | 175.9 | [Connect](tg://proxy?server=echo.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| silver.driftquill.click | 177.63 | [Connect](tg://proxy?server=silver.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 33.antifilterasianew.co.uk | 178.7 | [Connect](https://t.me/proxy?server=33.antifilterasianew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| opal.lite64.xyz | 183.51 | [Connect](tg://proxy?server=opal.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| web-kook.mosbatbashim.info. | 189.75 | [Connect](https://t.me/proxy?server=web-kook.mosbatbashim.info.&port=5500&secret=DDBighLLvXrFGRMCBVJdFQ) |
+| galaxy.lite64.click | 194.58 | [Connect](tg://proxy?server=galaxy.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| ultra.velvetoak.work | 198.44 | [Connect](tg://proxy?server=ultra.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 333.mtprotonewrunningproxasia.info | 207.43 | [Connect](https://t.me/proxy?server=333.mtprotonewrunningproxasia.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| panel.hook--tehran.co.uk. | 211.54 | [Connect](https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk%3D) |
+| silver.ciaude.co.uk | 212.08 | [Connect](https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| dark2.globalmymusic.co.uk | 213.99 | [Connect](https://t.me/proxy?server=dark2.globalmymusic.co.uk&port=443&secret=eeDarKDarKDarKDarKDarK) |
+| summit.hollowfern.sbs | 219.12 | [Connect](tg://proxy?server=summit.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
