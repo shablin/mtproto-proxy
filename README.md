@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-21 14:53:55 UTC_
+> **Last Update:** _2026-10-21 19:56:46 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 321 | 301 |20 | 648.8 ms | 93.8% _(Good)_ |
+| 321 | 304 |17 | 999.72 ms | 94.7% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 8.95 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 31.57.108.82 | 125.19 | [Connect](tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275) |
-| luxuryman.sbs | 130.56 | [Connect](https://t.me/proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 89.185.85.103 | 145.07 | [Connect](tg://proxy?server=89.185.85.103&port=443&secret=eeed5359f53cdbb86eb6be435b9efa490a6f7a6f6e2e7275) |
-| 167.235.255.168 | 150.31 | [Connect](https://t.me/proxy?server=167.235.255.168&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 159.69.9.248 | 150.51 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 167.235.197.46 | 153.89 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 46.225.148.183 | 155.56 | [Connect](https://t.me/proxy?server=46.225.148.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 65.109.248.100 | 161.7 | [Connect](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 91.98.97.225 | 173.3 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 33.itpokfares.info | 180.9 | [Connect](https://t.me/proxy?server=33.itpokfares.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| oasis.velvetoak.work | 184.24 | [Connect](tg://proxy?server=oasis.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| org.mediaad.co.uk | 190.71 | [Connect](https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| joje.goooalir.co.uk | 191.82 | [Connect](https://t.me/proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| mint.hollowfern.sbs | 192.49 | [Connect](tg://proxy?server=mint.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| 17fh.masi.ir.he6fhd.ru | 193.14 | [Connect](https://t.me/proxy?server=17fh.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| haji.estabonita.co.uk | 196.93 | [Connect](https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
-| qadim.zhigool.co.uk | 197.99 | [Connect](https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ) |
-| ivory.hollowfern.sbs | 219.46 | [Connect](tg://proxy?server=ivory.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
-| ocean.velvetoak.work | 230.92 | [Connect](tg://proxy?server=ocean.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 208.87.242.223 | 36.86 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| irluxcars.site | 89.03 | [Connect](https://t.me/proxy?server=irluxcars.site&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
+| 159.69.9.248 | 134.92 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 167.235.197.46 | 135.56 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 167.235.255.168 | 135.9 | [Connect](https://t.me/proxy?server=167.235.255.168&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 46.225.148.183 | 136.39 | [Connect](https://t.me/proxy?server=46.225.148.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 65.109.248.100 | 156.12 | [Connect](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 91.98.97.225 | 167.43 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| noon.begir.co.uk | 170.42 | [Connect](https://t.me/proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| 178.236.245.98 | 173.18 | [Connect](tg://proxy?server=178.236.245.98&port=443&secret=ee86b4315adbe231d1a6398b057f9869e86f7a6f6e2e7275) |
+| 62.217.176.200 | 180.7 | [Connect](tg://proxy?server=62.217.176.200&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275) |
+| PAyDaR.goooalir.co.uk | 185.93 | [Connect](https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| kavima49.mosswren.vip | 213.28 | [Connect](https://t.me/proxy?server=kavima49.mosswren.vip&port=443&secret=ee6ce7aa9636179a5f67366aaab4702a266b6176696d6134392e6d6f73737772656e2e766970) |
+| cedar.lite64.xyz | 218.51 | [Connect](tg://proxy?server=cedar.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 33.itpokfares.info | 219.94 | [Connect](https://t.me/proxy?server=33.itpokfares.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| sune79.mosswren.vip | 233.45 | [Connect](https://t.me/proxy?server=sune79.mosswren.vip&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b73756e6537392e6d6f73737772656e2e766970) |
+| neon.velvetoak.work | 241.98 | [Connect](tg://proxy?server=neon.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| iris.hollowfern.sbs | 249.41 | [Connect](tg://proxy?server=iris.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| pofak.mikhay.co.uk | 260.19 | [Connect](https://t.me/proxy?server=pofak.mikhay.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ) |
+| for.you.goooalir.co.uk | 282.97 | [Connect](https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
