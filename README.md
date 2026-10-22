@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-22 03:38:30 UTC_
+> **Last Update:** _2026-10-22 09:12:40 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 331 | 310 |21 | 730.39 ms | 93.7% _(Good)_ |
+| 321 | 302 |19 | 593.33 ms | 94.1% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 59.77 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| luxuryman.sbs | 81.94 | [Connect](https://t.me/proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09) |
-| 159.69.9.248 | 95.74 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| qadim.zhigool.co.uk | 96.56 | [Connect](https://t.me/proxy?server=qadim.zhigool.co.uk&port=22&secret=EERighJJvXrFGRMCIMJdCQ) |
-| 167.235.255.168 | 97.28 | [Connect](https://t.me/proxy?server=167.235.255.168&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 46.224.160.92 | 97.31 | [Connect](https://t.me/proxy?server=46.224.160.92&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 46.225.148.183 | 97.72 | [Connect](https://t.me/proxy?server=46.225.148.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 91.107.140.144 | 100.12 | [Connect](https://t.me/proxy?server=91.107.140.144&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 91.107.171.35 | 100.16 | [Connect](https://t.me/proxy?server=91.107.171.35&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| run.golgoli2.co.uk | 100.54 | [Connect](https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 167.235.197.46 | 100.62 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
-| 91.98.97.225 | 110.06 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 91.98.100.233 | 110.08 | [Connect](https://t.me/proxy?server=91.98.100.233&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 91.98.109.73 | 110.34 | [Connect](https://t.me/proxy?server=91.98.109.73&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| premium.speed-benz.co.uk | 110.83 | [Connect](https://t.me/proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 33.antony-gordon.co.uk | 111.13 | [Connect](https://t.me/proxy?server=33.antony-gordon.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
-| 62.238.11.183 | 112.32 | [Connect](https://t.me/proxy?server=62.238.11.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 91.98.103.228 | 112.75 | [Connect](https://t.me/proxy?server=91.98.103.228&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 135.181.154.26 | 113.08 | [Connect](https://t.me/proxy?server=135.181.154.26&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 65.109.147.39 | 114.13 | [Connect](https://t.me/proxy?server=65.109.147.39&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 208.87.242.223 | 42.48 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 46.225.148.183 | 122.29 | [Connect](https://t.me/proxy?server=46.225.148.183&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 167.235.255.168 | 124.83 | [Connect](https://t.me/proxy?server=167.235.255.168&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 167.235.197.46 | 127.29 | [Connect](https://t.me/proxy?server=167.235.197.46&port=8443&secret=dd79e344818749bd7ac519130220c25d09) |
+| 159.69.9.248 | 128.57 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 65.109.98.231 | 134.83 | [Connect](https://t.me/proxy?server=65.109.98.231&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 65.108.123.76 | 137.23 | [Connect](https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
+| 91.98.100.233 | 139.74 | [Connect](https://t.me/proxy?server=91.98.100.233&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 65.109.248.100 | 143.34 | [Connect](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 91.98.103.228 | 147.4 | [Connect](https://t.me/proxy?server=91.98.103.228&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| lark.velvetoak.work | 148.88 | [Connect](tg://proxy?server=lark.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| 91.98.97.225 | 149.52 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| petros-es.co.uk. | 156.12 | [Connect](https://t.me/proxy?server=petros-es.co.uk.&port=443&secret=ee79e344818749bd7ac519130220c25d09706574726f732d65732e636f2e756b) |
+| kestrel.lite64.xyz | 193.12 | [Connect](tg://proxy?server=kestrel.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| swift.hollowfern.sbs | 195.02 | [Connect](tg://proxy?server=swift.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| rain.lite64.top | 207.46 | [Connect](tg://proxy?server=rain.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| quartz.lite64.top | 243.4 | [Connect](tg://proxy?server=quartz.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| ir.panhandleflyers.info | 249.84 | [Connect](https://t.me/proxy?server=ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| ir-ir.flipme.info | 264.36 | [Connect](https://t.me/proxy?server=ir-ir.flipme.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| name.golgoli2.co.uk | 266.82 | [Connect](https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
