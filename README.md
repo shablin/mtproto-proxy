@@ -1,6 +1,6 @@
 # MTProto Proxy 🌐
 > [!NOTE]
-> **Last Update:** _2026-10-25 20:28:59 UTC_
+> **Last Update:** _2026-10-25 23:52:54 UTC_
 
 This repository provides auto-updating proxies for Telegram to help you bypass the messenger's restrictions in Russia 🇷🇺
 
@@ -19,27 +19,27 @@ Proxies are updated every **4 hours**, after which tracking is conducted, which 
 ## 📊 Stats
 | 🔢 Total | 🟢 Alive | 🔴 Dead | ⚡ Avg. Latency | 📈 Rate |
 | :-------: | :------: | :-----: | :-------------: | :------: |
-| 308 | 291 |17 | 659.13 ms | 94.5% _(Good)_ |
+| 300 | 281 |19 | 624.25 ms | 93.7% _(Good)_ |
 ## 🌐 Top 20 Fastest Proxies
 | 🖥️ Host | ⚡ Latency (ms) | 🔗 Link |
 | -------- | :-------------: | ------- |
-| 208.87.242.223 | 11.26 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
-| 31.57.108.82 | 129.46 | [Connect](tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275) |
-| 194.120.230.106 | 134.06 | [Connect](https://t.me/proxy?server=194.120.230.106&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 194.120.230.120 | 134.23 | [Connect](https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 159.69.9.248 | 135.74 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 150.230.124.161 | 136.18 | [Connect](tg://proxy?server=150.230.124.161&port=443&secret=ee99b282cc5e627c76312e9a8bdb9d09787777772e727562696b612e6972) |
-| 94.103.1.226 | 138.96 | [Connect](tg://proxy?server=94.103.1.226&port=443&secret=ee7b15367d6c33b0b2a8a34d92b9327b79706f636874612e7275) |
-| 2.26.98.158 | 139.51 | [Connect](tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
-| 91.107.171.35 | 140.02 | [Connect](https://t.me/proxy?server=91.107.171.35&port=443&secret=104462821249bd7ac519130220c25d09) |
-| 217.144.187.230 | 147.14 | [Connect](tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275) |
-| 89.127.201.206 | 154.82 | [Connect](tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275) |
-| 31.58.137.124 | 155.07 | [Connect](tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) |
-| 138.124.127.179 | 157.46 | [Connect](tg://proxy?server=138.124.127.179&port=443&secret=eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d) |
-| 95.217.193.223 | 161.29 | [Connect](https://t.me/proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 65.109.248.100 | 162.04 | [Connect](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
-| 89.125.113.8 | 162.82 | [Connect](tg://proxy?server=89.125.113.8&port=443&secret=ee5b99cc79c1fe095be478df4111e00b6379616e6465782e7275) |
-| 65.21.227.199 | 167.03 | [Connect](https://t.me/proxy?server=65.21.227.199&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0) |
-| 147.45.79.137 | 167.1 | [Connect](tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d) |
-| 45.9.13.185 | 171.6 | [Connect](tg://proxy?server=45.9.13.185&port=443&secret=ee1603010200010001fc030386e24c3add6d61782e7275) |
-| recordzan.herfeibash.info. | 173.03 | [Connect](https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1) |
+| 208.87.242.223 | 50.54 | [Connect](https://t.me/proxy?server=208.87.242.223&port=8443&secret=EERighJJvXrFGRMCIMjdCQ) |
+| 31.57.108.82 | 98.08 | [Connect](tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275) |
+| 217.144.187.230 | 107.09 | [Connect](tg://proxy?server=217.144.187.230&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275) |
+| 159.69.9.248 | 109.53 | [Connect](https://t.me/proxy?server=159.69.9.248&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 150.241.65.113 | 113.0 | [Connect](tg://proxy?server=150.241.65.113&port=443&secret=eeb87dc15f92c391155eccb9293e2881796f7a6f6e2e7275) |
+| 2.26.98.158 | 114.05 | [Connect](tg://proxy?server=2.26.98.158&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275) |
+| 178.236.245.98 | 119.96 | [Connect](tg://proxy?server=178.236.245.98&port=443&secret=ee86b4315adbe231d1a6398b057f9869e86f7a6f6e2e7275) |
+| 91.98.97.225 | 127.6 | [Connect](https://t.me/proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ) |
+| 65.109.248.100 | 129.81 | [Connect](https://t.me/proxy?server=65.109.248.100&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 147.45.79.137 | 130.09 | [Connect](tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d) |
+| 78.135.73.33 | 130.87 | [Connect](tg://proxy?server=78.135.73.33&port=443&secret=ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275) |
+| AVA.goooalir.co.uk | 130.99 | [Connect](https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 31.58.137.124 | 131.96 | [Connect](tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275) |
+| leomessi.goooalir.co.uk | 140.96 | [Connect](https://t.me/proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09) |
+| 62.217.176.200 | 142.22 | [Connect](tg://proxy?server=62.217.176.200&port=443&secret=ee0dbf98440246f4b9228dd2b704256cad6f7a6f6e2e7275) |
+| 159.194.234.168 | 142.4 | [Connect](tg://proxy?server=159.194.234.168&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275) |
+| 45.9.13.185 | 143.43 | [Connect](tg://proxy?server=45.9.13.185&port=443&secret=ee1603010200010001fc030386e24c3add6d61782e7275) |
+| 130.49.151.113 | 145.14 | [Connect](tg://proxy?server=130.49.151.113&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275) |
+| cirrus.lite64.xyz | 148.6 | [Connect](tg://proxy?server=cirrus.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
+| frost.lanternmoss.top | 149.03 | [Connect](tg://proxy?server=frost.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275) |
